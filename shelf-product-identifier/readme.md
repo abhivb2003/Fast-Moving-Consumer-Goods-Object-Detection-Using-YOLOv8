@@ -1,7 +1,7 @@
 
 
 
-# Facings product identifier using YOLOv8 and image embeddings
+# Fast Moving Consumer Goods Object Detection Using YOLOv8
 
 This repository contains the implementation of a facings identifier using YOLOv8 and image embeddings. The goal of this project is to count the number of facings (product instances) of each product present on shelves in a retail store using computer vision techniques.
 
